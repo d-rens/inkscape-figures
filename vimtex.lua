@@ -1,0 +1,1 @@
+/home/daniel/.config/nvim/after/plugin/vimtex.lua
