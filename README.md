@@ -1,9 +1,3 @@
-# notice
-excuse the mess, now it finally works tho
-
-didnt with `pip install...`, but it did with just sudoing the setup.py
-
-
 # Inkscape figure manager.
 
 A script I use to manage figures for my LaTeX documents.
